@@ -2,6 +2,7 @@
 
 **A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21444517.svg)](https://doi.org/10.5281/zenodo.21444517)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
@@ -97,13 +98,18 @@ This binary outcome elevates the framework's scientific status beyond a mere pos
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this work, please cite:
 
-@article{Wells2026TRC,
-  title={Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test},
-  author={Wells, Treg Robert},
-  journal={arXiv preprint arXiv:2608.xxxxx},
-  year={2026}
+Wells, T. R. (2026). Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test. Zenodo. https://doi.org/10.5281/zenodo.21444517
+
+{```bibtex
+@misc{Wells2026TRC,
+  author = {Wells, Treg Robert},
+  title = {Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test},
+  year = {2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.21444517},
+  url = {https://doi.org/10.5281/zenodo.21444517}
 }
 
 ---
