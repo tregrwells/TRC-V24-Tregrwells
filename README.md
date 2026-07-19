@@ -100,9 +100,10 @@ This binary outcome elevates the framework's scientific status beyond a mere pos
 
 If you use this work, please cite:
 
-Wells, T. R. (2026). Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test. Zenodo. https://doi.org/10.5281/zenodo.21444517
+Wells, T. R. (2026). Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test. Zenodo.  
+https://doi.org/10.5281/zenodo.21444517
 
-{```bibtex
+```bibtex
 @misc{Wells2026TRC,
   author = {Wells, Treg Robert},
   title = {Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test},
