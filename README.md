@@ -3,7 +3,8 @@
 **A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21444517.svg)](https://doi.org/10.5281/zenodo.21444517)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 ---
@@ -37,7 +38,7 @@ The framework derives all major phenomena from a single 5D Einstein-Cartan actio
 
 TRC-V24-Tregrwells/
 ├── README.md                          # This file
-├── LICENSE                            # MIT License
+├── LICENSE                            # CC BY 4.0 License
 ├── requirements.txt                   # Python dependencies
 │
 ├── 01_Cosmology_Background.ipynb      # BAO, H0, dark energy evolution
@@ -64,7 +65,7 @@ TRC-V24-Tregrwells/
 
 Install all dependencies with:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ---
 
@@ -72,12 +73,12 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/TRC-V24-Tregrwells.git
-cd TRC-V24-Tregrwells
+    git clone https://github.com/tregrwells/TRC-V24-Tregrwells.git
+    cd TRC-V24-Tregrwells
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. Open a notebook in Google Colab or Jupyter.
 
@@ -90,6 +91,7 @@ pip install -r requirements.txt
 TRC V24 commits to a sharp, short-term falsification:
 
 - If DUNE/Hyper-K find θ13 = 11-12° (2027-2028), TRC is validated in a way no phenomenological model can match.
+
 - If they find θ13 = 8.5°, TRC is falsified and requires structural refinement.
 
 This binary outcome elevates the framework's scientific status beyond a mere post-hoc fit.
@@ -103,21 +105,22 @@ If you use this work, please cite:
 Wells, T. R. (2026). Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test. Zenodo.  
 https://doi.org/10.5281/zenodo.21444517
 
-```bibtex
-@misc{Wells2026TRC,
-  author = {Wells, Treg Robert},
-  title = {Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test},
-  year = {2026},
-  publisher = {Zenodo},
-  doi = {10.5281/zenodo.21444517},
-  url = {https://doi.org/10.5281/zenodo.21444517}
-}
+BibTeX entry:
+
+    @misc{Wells2026TRC,
+      author = {Wells, Treg Robert},
+      title = {Torsion Rebound Cosmology: A 5D Einstein-Cartan Template for Dark Energy, S8, and a Sharp θ13 Test},
+      year = {2026},
+      publisher = {Zenodo},
+      doi = {10.5281/zenodo.21444517},
+      url = {https://doi.org/10.5281/zenodo.21444517}
+    }
 
 ---
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Creative Commons Attribution 4.0 International License.
 
 ---
 
